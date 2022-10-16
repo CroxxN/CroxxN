@@ -1,4 +1,4 @@
-[![(Script) Discord Activity Badge](https://badgen.net/badge/Discord%20User/Online?color=61d800&labelColor=434343&icon=discord)](https://github.com/CroxxN/CroxxN)
+[![(Script) Discord Activity Badge](https://badgen.net/badge/Listening%20to/Spotify%2C%20Shine%20On%20You%20Crazy%20Diamond%20%28Pts.%201-5%29%20by%20Pink%20Floyd%20%7C%200%3A07%3A14%20of%200%3A13%3A31?color=61d800&labelColor=1db954&icon=discord)](https://github.com/CroxxN/CroxxN)
 
 # Hi, I'm a high school student currently in my senior year.📜
 
