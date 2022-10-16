@@ -1,3 +1,5 @@
+[![(Script) Discord Activity Badge](https://badgen.net/badge/Discord%20User/Online?color=61d800&labelColor=434343&icon=discord)](https://github.com/CroxxN/CroxxN)
+
 # Hi, I'm a high school student currently in my senior year.📜
 
 ## I'm passionate about coding, designing, and procastinating!
