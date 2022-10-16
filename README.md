@@ -69,5 +69,25 @@ style="padding-right:10px;"/>
 # Formal
 [<img align="left" alt="Gmail" width = "40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" style="padding-right:10px;"/>](mailto:saradgaihre19@gmail.com)
 
+<br/>
+<br/>
+
+---
+
+<br/>
+
+# Certificates
+- 1) [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/account/accomplishments/certificate/5A7P3YQW2ECE)
+
+<br/>
+
+---
+# Stats
+![CroxxN's GitHub stats](https://github-readme-stats.vercel.app/api?username=CroxxN&show_icons=true&theme=radical)
+
+<br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CroxxN&langs_count=10)](https://github.com/CroxxN)
+
 [goodreads]: https://www.goodreads.com/user/show/125508043-crox-x
 [discord]: https://www.discordapp.com/users/432483076145414145
