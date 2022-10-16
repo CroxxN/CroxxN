@@ -17,3 +17,5 @@ jobs:
         with: # Go to your Repository Secrets and fill those up!
           DISCORD_USER_ID: ${{ secrets.DISCORD_USER_ID }}
           DISCORD_BOT_TOKEN: ${{ secrets.DISCORD_BOT_TOKEN }}
+          TIME_DISPLAY_OUTPUT: HOURS_MINUTE
+          SPOTIFY_INCLUDE_ALBUM_PLAYLIST_NAME: True
