@@ -79,8 +79,12 @@ style="padding-right:10px;"/>
 <br/>
 
 # Certificates
-- 1) [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/account/accomplishments/certificate/5A7P3YQW2ECE)
+[<img src="assets/DeepLearning1.png"/>](https://www.coursera.org/account/accomplishments/certificate/5A7P3YQW2ECE)
 
+
+<br4/>
+
+<img src="assets/Spanish-Certificate.jpg"/>
 <br/>
 
 ---
