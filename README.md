@@ -75,9 +75,12 @@ style="padding-right:10px;"/>
 <br/>
 
 ---
-
+<figure><embed src="https://wakatime.com/share/@154c9185-54e9-4706-853a-bdb93b317260/b1e968f7-e71c-46bc-b507-d422d472b15a.svg"></embed></figure>
 <br/>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CroxxN&langs_count=10)](https://github.com/CroxxN)
+
+<br/>
 # Certificates
 [<img src="assets/DeepLearning1.png"/>](https://www.coursera.org/account/accomplishments/certificate/5A7P3YQW2ECE)
 
@@ -93,7 +96,7 @@ style="padding-right:10px;"/>
 
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CroxxN&langs_count=10)](https://github.com/CroxxN)
+
 
 [goodreads]: https://www.goodreads.com/user/show/125508043-crox-x
 [discord]: https://www.discordapp.com/users/432483076145414145
