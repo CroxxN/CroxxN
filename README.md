@@ -45,6 +45,9 @@ style="padding-right:10px;"/>
 
 # To Learn List
 ### Last updated: Oct 10, 2022
+- Go
+- Zig
+- Blockchain
 - MySQL
 - Redis
 - PHP
@@ -85,6 +88,7 @@ style="padding-right:10px;"/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CroxxN&langs_count=10)](https://github.com/CroxxN)
 
 <br/>
+
 # Certificates
 
 [<img src="assets/DeepLearning1.png"/>](https://www.coursera.org/account/accomplishments/certificate/5A7P3YQW2ECE)
