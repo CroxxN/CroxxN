@@ -6,9 +6,10 @@
 
 ### I'm currently learning 
 - Deep Learning and Neural Network 🕸️
-- Graphics Designing (heads up: I'm terrible at it) 👨🛠
+- Graphics Designing (heads up: I'm ~~terrible~~ *ok* at it) 👨🛠
 - Data Structures and Algorithms 💻
 - Spanish 🇪🇸
+- Systems Programming
 
 ### Goals
 
@@ -44,7 +45,7 @@ style="padding-right:10px;"/>
 ---
 
 # To Learn List
-### Last updated: Oct 10, 2022
+### Last updated: Oct 28, 2022
 - Go
 - Zig
 - Blockchain
