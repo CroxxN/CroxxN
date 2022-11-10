@@ -1,4 +1,4 @@
-[![(Script) Discord Activity Badge](https://badgen.net/badge/Discord%20User/Idle?color=edca00&labelColor=434343&icon=discord)](https://github.com/CroxxN/CroxxN)
+[![(Script) Discord Activity Badge](https://badgen.net/badge/Discord%20User/Offline?color=545454&labelColor=434343&icon=discord)](https://github.com/CroxxN/CroxxN)
 
 # Hi, I'm a high school student currently in my senior year.📜
 
