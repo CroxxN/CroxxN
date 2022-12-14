@@ -73,7 +73,7 @@ style="padding-right:10px;"/>
 [<img align="left" alt="Goodreads" width="200px" src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Goodreads_logo.svg" style="padding-right:10px;"/>][goodreads]
 [<img align="left" alt="Discord" width="40px" src="https://static.wikia.nocookie.net/logopedia/images/0/09/Discord_Former_Icon.svg/revision/latest?cb=20201109094951" style="padding-left:20px;"/>][discord]
 
-<img align="left" alt="@croxx.aep" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/132px-Instagram_logo_2016.svg.png" style="padding-left:20px;"/>
+[<img align="left" alt="@croxx.aep" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/132px-Instagram_logo_2016.svg.png" style="padding-left:20px;"/>](instagram)
 
 <br />
 <br />
@@ -120,3 +120,4 @@ style="padding-right:10px;"/>
 
 [goodreads]: https://www.goodreads.com/user/show/125508043-crox-x
 [discord]: https://www.discordapp.com/users/432483076145414145
+[instagram]: https://www.instagram.com/croxx.aep
