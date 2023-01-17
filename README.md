@@ -1,4 +1,4 @@
-[![(Script) Discord Activity Badge](https://badgen.net/badge/Idle/Reference%20doesn%27t%20live%20long%20enough?color=edca00&labelColor=edca00&icon=discord)](https://github.com/CroxxN/CroxxN)
+[![(Script) Discord Activity Badge](https://badgen.net/badge/Discord%20User/Offline?color=545454&labelColor=434343&icon=discord)](https://github.com/CroxxN/CroxxN)
 
 [![wakatime](https://wakatime.com/badge/github/CroxxN/CroxxN.svg)](https://wakatime.com/badge/github/CroxxN/CroxxN)
 ![](https://komarev.com/ghpvc/?username=CroxxN)
