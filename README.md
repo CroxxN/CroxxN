@@ -1,4 +1,4 @@
-[![(Script) Discord Activity Badge](https://badgen.net/badge/Listening%20to/Spotify%2C%20Say%20Hello%202%20Heaven%20-%2025th%20Anniversary%20Mix%20by%20Temple%20Of%20The%20Dog%20%28Temple%20Of%20The%20Dog%20%28Deluxe%20Edition%29%29%20%7C%200%3A03%3A11%20of%200%3A06%3A24?color=edca00&labelColor=1db954&icon=discord)](https://github.com/CroxxN/CroxxN)
+[![(Script) Discord Activity Badge](https://badgen.net/badge/Discord%20User/Offline?color=545454&labelColor=434343&icon=discord)](https://github.com/CroxxN/CroxxN)
 
 [![wakatime](https://wakatime.com/badge/github/CroxxN/CroxxN.svg)](https://wakatime.com/badge/github/CroxxN/CroxxN)
 ![](https://komarev.com/ghpvc/?username=CroxxN)
