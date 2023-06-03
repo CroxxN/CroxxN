@@ -1,4 +1,4 @@
-[![(Script) Discord Activity Badge](https://badgen.net/badge/Listening%20to/Spotify%2C%20Requiem%2C%20K.%20626%3A%20IV.%20Offertorium%3A%20a.%20Domine%20Jesu%20%28Orch.%20S%C3%BCssmayr%2C%20Beyer%29%20-%20Live%20by%20Wolfgang%20Amadeus%20Mozart%3B%20Karita%20Mattila%3B%20Sara%20Mingardo%3B%20Michael%20Schade%3B%20Bryn%20Terfel%20%28Mozart%3A%20Requiem%29%20%7C%200%3A03%3A02%20of%200%3A03%3A36?color=edca00&labelColor=1db954&icon=discord)](https://github.com/CroxxN/CroxxN)
+[![(Script) Discord Activity Badge](https://badgen.net/badge/Discord%20User/Offline?color=545454&labelColor=434343&icon=discord)](https://github.com/CroxxN/CroxxN)
 
 [![wakatime](https://wakatime.com/badge/github/CroxxN/CroxxN.svg)](https://wakatime.com/badge/github/CroxxN/CroxxN)
 ![](https://komarev.com/ghpvc/?username=CroxxN)
