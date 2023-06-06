@@ -1,4 +1,4 @@
-[![(Script) Discord Activity Badge](https://badgen.net/badge/Listening%20to/Spotify%2C%20Just%20the%20Two%20of%20Us%20by%20Grover%20Washington%2C%20Jr.%20%28Winelight%29%20%7C%200%3A06%3A03%20of%200%3A07%3A23?color=edca00&labelColor=1db954&icon=discord)](https://github.com/CroxxN/CroxxN)
+[![(Script) Discord Activity Badge](https://badgen.net/badge/Discord%20User/Offline?color=545454&labelColor=434343&icon=discord)](https://github.com/CroxxN/CroxxN)
 
 [![wakatime](https://wakatime.com/badge/github/CroxxN/CroxxN.svg)](https://wakatime.com/badge/github/CroxxN/CroxxN)
 ![](https://komarev.com/ghpvc/?username=CroxxN)
