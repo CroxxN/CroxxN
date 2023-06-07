@@ -1,4 +1,4 @@
-[![(Script) Discord Activity Badge](https://badgen.net/badge/Discord%20User/Offline?color=545454&labelColor=434343&icon=discord)](https://github.com/CroxxN/CroxxN)
+[![(Script) Discord Activity Badge](https://badgen.net/badge/Listening%20to/Spotify%2C%20Sing%20For%20The%20Moment%20by%20Eminem%20%28The%20Eminem%20Show%29%20%7C%200%3A03%3A17%20of%200%3A05%3A39?color=edca00&labelColor=1db954&icon=discord)](https://github.com/CroxxN/CroxxN)
 
 [![wakatime](https://wakatime.com/badge/github/CroxxN/CroxxN.svg)](https://wakatime.com/badge/github/CroxxN/CroxxN)
 ![](https://komarev.com/ghpvc/?username=CroxxN)
