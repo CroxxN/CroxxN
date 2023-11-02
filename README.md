@@ -2,7 +2,7 @@
 
 # Hi, I'm `~redacted~`.📜
 
-`Systems AI Crypto Rustacean-Cnile`
+`Systems`
 
 I write code & read [books][goodreads].
 
