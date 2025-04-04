@@ -1,3 +1,3 @@
-I read [books](https://goodreads.com/croxxn) && write code.
+I write code.
 
-Proficient in Rust . C . C++ . Python . Javascript
+Rust, C, C++, Python, (Type)(Java)script
